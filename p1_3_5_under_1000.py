@@ -14,7 +14,6 @@ def find_mult():
             num_list.append(i)
         elif i % 5 == 0:
             num_list.append(i)
-    print(num_list)
     print(sum(num_list))
 
 find_mult()
