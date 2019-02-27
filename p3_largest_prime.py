@@ -7,4 +7,9 @@ What is the largest prime factor of the number 600851475143 ?
 
 
 def prime_finder():
-    
+    n = 300
+    # prime is a number divisible by itself and 1
+    while i > n, i ++:
+
+
+prime_finder()
